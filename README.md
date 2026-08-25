@@ -39,7 +39,7 @@ git clone https://github.com/nl2px/cia-hub-termux-tools
 Entre dans le dossier :
 
 ```sh
-cd cia-hub
+cd cia-hub-termux-tools
 ```
 
 Crée l’environnement Python :
